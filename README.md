@@ -1,4 +1,4 @@
-# -Kotlin-Gestor-InfoPersonal Gestor de Información Personal en Kotlin
+ -Kotlin-Gestor-InfoPersonal Gestor de Información Personal en Kotlin
 
   Descripción del programa
 
@@ -11,7 +11,7 @@ Este proyecto es una **aplicación de consola desarrollada en Kotlin** que permi
 - Entrada/salida por consola  
 - Uso de `data class` y funciones
 
----
+
 
 Consola en ejecucion
 
