@@ -1,7 +1,6 @@
-# -Kotlin-Gestor-InfoPersonal
-# 📘 Gestor de Información Personal en Kotlin
+# -Kotlin-Gestor-InfoPersonal Gestor de Información Personal en Kotlin
 
-## 📌 Descripción del programa
+  Descripción del programa
 
 Este proyecto es una **aplicación de consola desarrollada en Kotlin** que permite registrar, validar y analizar información personal de varios usuarios. Fue diseñado como ejercicio educativo para practicar los conceptos básicos del lenguaje Kotlin, incluyendo:
 
@@ -14,7 +13,7 @@ Este proyecto es una **aplicación de consola desarrollada en Kotlin** que permi
 
 ---
 
-## 🖥️ Ejemplo de ejecución (consola)
+Consola en ejecucion
 
 === GESTOR DE INFORMACIÓN PERSONAL EN KOTLIN ===
 
@@ -41,17 +40,17 @@ Altura (en metros): 1.58
 Peso (en kilogramos): 54
 Email: ltorres@correo.co
 Ciudad de residencia: Cali
-##  Funcionalidades implementadas
+ Funcionalidades implementadas
 
 - Registro de múltiples usuarios por consola
 - Validación de:
   - Edad (> 0)
   - Altura y peso (> 0)
   - Email válido (contiene `@` y `.`)
-- Cálculo del **IMC** (Índice de Masa Corporal)
-- Detección de **mayoría de edad**
+- Cálculo del IMC (Índice de Masa Corporal)
+- Detección de mayoría de edad
 - Manipulación de cadenas:
   - Conversión a mayúsculas y minúsculas
   - Extracción del dominio del email
-- Generación de resumen completo usando **string templates** y `trimIndent()`
+- Generación de resumen completo usando string templates y `trimIndent()`
 - Salida limpia y formateada en consola
